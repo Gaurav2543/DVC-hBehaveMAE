@@ -1,0 +1,301 @@
+Animal Count Mismatch Report
+========================================
+
+==================== Strain: 129S1/SvImJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00179': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00180': Found multiple counts: [2, 3, 4]
+
+==================== Strain: A/J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00176': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00177': Found multiple counts: [3, 4]
+
+==================== Strain: BALB/cJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00454': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00455': Found multiple counts: [3, 4]
+
+==================== Strain: BPH/2J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00456': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00457': Found multiple counts: [3, 4]
+
+==================== Strain: BPL/1J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00710': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00711': Found multiple counts: [2, 3, 4, 5]
+  [!] Inter-Cage Mismatch for Strain 'BPL/1J': Cages have different animal counts: {'EHDP-00710': 3, 'EHDP-00711': 5}
+
+==================== Strain: BPN/3J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00083': Found multiple counts: [3, 4]
+
+==================== Strain: BUB/BnJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00370': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00371': Found multiple counts: [1, 2, 3]
+  [!] Inter-Cage Mismatch for Strain 'BUB/BnJ': Cages have different animal counts: {'EHDP-00370': 4, 'EHDP-00371': 3, 'EHDP-00751': 2}
+
+==================== Strain: BXD102 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01327': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01328': Found multiple counts: [3, 4]
+
+==================== Strain: BXD34 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01434': Found multiple counts: [3, 4]
+
+==================== Strain: BXD44 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01060': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01063': Found multiple counts: [2, 3, 4]
+  [!] Inter-Cage Mismatch for Strain 'BXD44': Cages have different animal counts: {'EHDP-01060': 4, 'EHDP-01063': 4, 'EHDP-01294': 3}
+
+==================== Strain: BXD45 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01164': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01165': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD48 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01170': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01171': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD49 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01115': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01117': Found multiple counts: [2, 3]
+  [!] Inter-Cage Mismatch for Strain 'BXD49': Cages have different animal counts: {'EHDP-01115': 4, 'EHDP-01117': 3}
+
+==================== Strain: BXD50 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01308': Found multiple counts: [3, 4]
+
+==================== Strain: BXD51 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01131': Found multiple counts: [3, 4]
+
+==================== Strain: BXD55 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01167': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD56 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01168': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01169': Found multiple counts: [3, 4]
+
+==================== Strain: BXD60 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01238': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01239': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: BXD61 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01325': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01326': Found multiple counts: [3, 4]
+
+==================== Strain: BXD62 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01108': Found multiple counts: [3, 4]
+
+==================== Strain: BXD65 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01114': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01118': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD69 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01058': Found multiple counts: [3, 4]
+
+==================== Strain: BXD70 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01061': Found multiple counts: [3, 4]
+
+==================== Strain: BXD71 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01431': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01432': Found multiple counts: [3, 4]
+
+==================== Strain: BXD73 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01037': Found multiple counts: [4, 5]
+  [!] Intra-Cage Mismatch in 'EHDP-01038': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD74 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01301': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01302': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD75 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01306': Found multiple counts: [3, 4]
+
+==================== Strain: BXD79 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01305': Found multiple counts: [3, 4]
+
+==================== Strain: BXD81 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01381': Found multiple counts: [2, 3, 4]
+
+==================== Strain: BXD84 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01322': Found multiple counts: [2, 3, 4]
+  [!] Inter-Cage Mismatch for Strain 'BXD84': Cages have different animal counts: {'EHDP-01321': 4, 'EHDP-01322': 3}
+
+==================== Strain: BXD89 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01382': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01383': Found multiple counts: [3, 4]
+
+==================== Strain: BXD95 ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01323': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01324': Found multiple counts: [3, 4]
+
+==================== Strain: C3H/HeJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00458': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00459': Found multiple counts: [3, 4]
+
+==================== Strain: C3H/HeOuJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00460': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00461': Found multiple counts: [2, 3, 4]
+
+==================== Strain: C57BL/10J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00712': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00713': Found multiple counts: [2, 4, 5]
+  [!] Inter-Cage Mismatch for Strain 'C57BL/10J': Cages have different animal counts: {'EHDP-00712': 3, 'EHDP-00713': 5}
+
+==================== Strain: C57BL/6J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00173': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00178': Found multiple counts: [3, 4]
+
+==================== Strain: C57BL/6NJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00674': Found multiple counts: [3, 4]
+
+==================== Strain: C57BR/cdJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00893': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00894': Found multiple counts: [2, 3, 4]
+
+==================== Strain: C57L/J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00839': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00840': Found multiple counts: [1, 3, 4]
+
+==================== Strain: CAROLI/EiJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00782': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00783': Found multiple counts: [2, 3, 4]
+
+==================== Strain: CAST/EiJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00088': Found multiple counts: [1, 2]
+  [!] Inter-Cage Mismatch for Strain 'CAST/EiJ': Cages have different animal counts: {'EHDP-00087': 1, 'EHDP-00088': 2, 'EHDP-00398': 1, 'EHDP-00515': 1, 'EHDP-00573': 1}
+
+==================== Strain: CBA/J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00213': Found multiple counts: [2, 3]
+  [!] Intra-Cage Mismatch in 'EHDP-00214': Found multiple counts: [3, 4]
+  [!] Inter-Cage Mismatch for Strain 'CBA/J': Cages have different animal counts: {'EHDP-00213': 3, 'EHDP-00214': 4}
+
+==================== Strain: CC001/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00714': Found multiple counts: [1, 2, 3, 4, 5]
+  [!] Intra-Cage Mismatch in 'EHDP-00715': Found multiple counts: [3, 4]
+  [!] Inter-Cage Mismatch for Strain 'CC001/Unc': Cages have different animal counts: {'EHDP-00714': 5, 'EHDP-00715': 3, 'EHDP-01205': 1}
+
+==================== Strain: CC002/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01033': Found multiple counts: [3, 4]
+
+==================== Strain: CC003/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00622': Found multiple counts: [2, 3, 4, 5]
+  [!] Intra-Cage Mismatch in 'EHDP-00623': Found multiple counts: [2, 3, 4]
+  [!] Inter-Cage Mismatch for Strain 'CC003/Unc': Cages have different animal counts: {'EHDP-00622': 5, 'EHDP-00623': 3}
+
+==================== Strain: CC004/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00910': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00915': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC005/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00777': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC006/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00913': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00914': Found multiple counts: [3, 4]
+
+==================== Strain: CC007/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00911': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00912': Found multiple counts: [2, 3, 4]
+
+==================== Strain: CC011/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01116': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-01119': Found multiple counts: [2, 3, 4]
+
+==================== Strain: CC012/GeniUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00842': Found multiple counts: [3, 4]
+
+==================== Strain: CC019/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00624': Found multiple counts: [3, 4]
+
+==================== Strain: CC025/GeniUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00889': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00895': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC033/GeniUncJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01236': Found multiple counts: [3, 4]
+
+==================== Strain: CC040/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00716': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00717': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC042/Unc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00811': Found multiple counts: [1, 2, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00812': Found multiple counts: [1, 4]
+  [!] Inter-Cage Mismatch for Strain 'CC042/Unc': Cages have different animal counts: {'EHDP-00811': 4, 'EHDP-00812': 4, 'EHDP-01254': 1, 'EHDP-01256': 1}
+
+==================== Strain: CC043/GeniUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00908': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00909': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC051/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00675': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00676': Found multiple counts: [2, 3, 4]
+
+==================== Strain: CC059/TauUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00891': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00892': Found multiple counts: [2, 3, 4]
+
+==================== Strain: CC061/GeniUnc ====================
+  [!] Intra-Cage Mismatch in 'EHDP-01032': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: CC078/TauUncJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00814': Found multiple counts: [3, 4]
+
+==================== Strain: DBA/1J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00369': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00372': Found multiple counts: [2, 3, 4]
+
+==================== Strain: DBA/2J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00175': Found multiple counts: [1, 2, 3]
+  [!] Intra-Cage Mismatch in 'EHDP-00890': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00896': Found multiple counts: [2, 3, 4]
+  [!] Inter-Cage Mismatch for Strain 'DBA/2J': Cages have different animal counts: {'EHDP-00174': 2, 'EHDP-00175': 3, 'EHDP-00890': 4, 'EHDP-00896': 4}
+
+==================== Strain: FVB/NJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00215': Found multiple counts: [1, 2, 3]
+  [!] Intra-Cage Mismatch in 'EHDP-00805': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00806': Found multiple counts: [2, 3, 4]
+  [!] Inter-Cage Mismatch for Strain 'FVB/NJ': Cages have different animal counts: {'EHDP-00215': 3, 'EHDP-00216': 2, 'EHDP-00805': 4, 'EHDP-00806': 4, 'EHDP-01039': 1}
+
+==================== Strain: JF1/MsJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00677': Found multiple counts: [2, 3, 4]
+
+==================== Strain: LG/J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00815': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00816': Found multiple counts: [2, 3, 4]
+
+==================== Strain: MSM/MsJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00779': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00780': Found multiple counts: [3, 4]
+  [!] Inter-Cage Mismatch for Strain 'MSM/MsJ': Cages have different animal counts: {'EHDP-00779': 4, 'EHDP-00780': 3, 'EHDP-00781': 1}
+
+==================== Strain: NON/ShiltJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00368': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00373': Found multiple counts: [2, 3]
+  [!] Intra-Cage Mismatch in 'EHDP-00752': Found multiple counts: [2, 3]
+  [!] Inter-Cage Mismatch for Strain 'NON/ShiltJ': Cages have different animal counts: {'EHDP-00368': 4, 'EHDP-00373': 3, 'EHDP-00752': 3}
+
+==================== Strain: NZW/LacJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00217': Found multiple counts: [2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00218': Found multiple counts: [3, 4]
+
+==================== Strain: PANCEVO/EiJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00817': Found multiple counts: [1, 2, 3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00818': Found multiple counts: [1, 2, 3, 4]
+
+==================== Strain: PERC/EiJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00679': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00681': Found multiple counts: [3, 4]
+  [!] Inter-Cage Mismatch for Strain 'PERC/EiJ': Cages have different animal counts: {'EHDP-00679': 3, 'EHDP-00680': 2, 'EHDP-00681': 3}
+
+==================== Strain: PWD/PhJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00219': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00220': Found multiple counts: [2, 3, 4]
+
+==================== Strain: PWK/PhJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00085': Found multiple counts: [1, 2, 3]
+  [!] Inter-Cage Mismatch for Strain 'PWK/PhJ': Cages have different animal counts: {'EHDP-00085': 3, 'EHDP-00086': 2, 'EHDP-00514': 2}
+
+==================== Strain: SKIVE/EiJ ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00619': Found multiple counts: [2, 3, 4]
+
+==================== Strain: SM/J ====================
+  [!] Intra-Cage Mismatch in 'EHDP-00845': Found multiple counts: [3, 4]
+  [!] Intra-Cage Mismatch in 'EHDP-00846': Found multiple counts: [3, 4]
+
+==================== Strain: WSB/EiJ ====================
+  [!] Inter-Cage Mismatch for Strain 'WSB/EiJ': Cages have different animal counts: {'EHDP-00089': 2, 'EHDP-00090': 4, 'EHDP-00358': 1}

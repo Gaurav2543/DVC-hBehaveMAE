@@ -1,0 +1,199 @@
+Fixing CSVs:   0%|          | 0/197 [00:00<?, ?file/s]Fixing CSVs:   1%|          | 1/197 [00:02<07:58,  2.44s/file]Fixing CSVs:   1%|          | 2/197 [00:15<28:19,  8.72s/file]Fixing CSVs:   2%|▏         | 3/197 [00:15<15:37,  4.83s/file]Fixing CSVs:   2%|▏         | 4/197 [00:16<10:09,  3.16s/file]Fixing CSVs:   3%|▎         | 5/197 [00:17<07:24,  2.32s/file]Fixing CSVs:   3%|▎         | 6/197 [00:17<04:59,  1.57s/file]Fixing CSVs:   4%|▍         | 8/197 [00:18<03:18,  1.05s/file]Fixing CSVs:   5%|▍         | 9/197 [00:18<02:35,  1.21file/s]Fixing CSVs:   5%|▌         | 10/197 [00:23<05:49,  1.87s/file]Fixing CSVs:   6%|▌         | 11/197 [00:25<06:21,  2.05s/file]Fixing CSVs:   6%|▌         | 12/197 [00:28<06:35,  2.14s/file]Fixing CSVs:   7%|▋         | 13/197 [00:32<08:44,  2.85s/file]Fixing CSVs:   7%|▋         | 14/197 [00:34<07:24,  2.43s/file]Fixing CSVs:   8%|▊         | 15/197 [00:34<05:22,  1.77s/file]Fixing CSVs:   9%|▊         | 17/197 [00:36<04:23,  1.46s/file]Fixing CSVs:   9%|▉         | 18/197 [00:39<05:37,  1.89s/file]Fixing CSVs:  10%|▉         | 19/197 [00:39<04:17,  1.45s/file]Fixing CSVs:  10%|█         | 20/197 [00:40<03:38,  1.23s/file]Fixing CSVs:  11%|█         | 21/197 [00:44<06:08,  2.10s/file]Fixing CSVs:  11%|█         | 22/197 [00:50<09:14,  3.17s/file]Fixing CSVs:  12%|█▏        | 23/197 [00:51<06:52,  2.37s/file]Fixing CSVs:  12%|█▏        | 24/197 [00:51<05:00,  1.74s/file]Fixing CSVs:  13%|█▎        | 25/197 [00:51<03:38,  1.27s/file]Fixing CSVs:  13%|█▎        | 26/197 [00:54<04:48,  1.69s/file]Fixing CSVs:  14%|█▎        | 27/197 [00:55<04:48,  1.70s/file]Fixing CSVs:  14%|█▍        | 28/197 [00:56<04:14,  1.51s/file]Fixing CSVs:  15%|█▍        | 29/197 [01:01<06:31,  2.33s/file]Fixing CSVs:  15%|█▌        | 30/197 [01:01<05:08,  1.85s/file]Fixing CSVs:  16%|█▌        | 31/197 [01:07<08:10,  2.95s/file]Fixing CSVs:  16%|█▌        | 32/197 [01:07<05:55,  2.16s/file]Fixing CSVs:  17%|█▋        | 33/197 [01:08<04:31,  1.66s/file]Fixing CSVs:  17%|█▋        | 34/197 [01:08<03:43,  1.37s/file]Fixing CSVs:  18%|█▊        | 35/197 [01:09<02:49,  1.04s/file]Fixing CSVs:  18%|█▊        | 36/197 [01:14<06:05,  2.27s/file]Fixing CSVs:  19%|█▉        | 37/197 [01:17<06:44,  2.53s/file]Fixing CSVs:  19%|█▉        | 38/197 [01:17<04:48,  1.82s/file]Fixing CSVs:  20%|█▉        | 39/197 [01:22<06:56,  2.64s/file]Fixing CSVs:  20%|██        | 40/197 [01:24<06:36,  2.53s/file]Fixing CSVs:  21%|██        | 41/197 [01:25<05:08,  1.97s/file]Fixing CSVs:  21%|██▏       | 42/197 [01:25<03:59,  1.54s/file]Fixing CSVs:  22%|██▏       | 44/197 [01:26<02:40,  1.05s/file]Fixing CSVs:  23%|██▎       | 45/197 [01:31<05:14,  2.07s/file]Fixing CSVs:  23%|██▎       | 46/197 [01:32<04:25,  1.76s/file]Fixing CSVs:  24%|██▍       | 47/197 [01:33<03:45,  1.50s/file]Fixing CSVs:  24%|██▍       | 48/197 [01:38<06:11,  2.49s/file]Fixing CSVs:  25%|██▍       | 49/197 [01:39<05:09,  2.09s/file]Fixing CSVs:  25%|██▌       | 50/197 [01:41<05:10,  2.11s/file]Fixing CSVs:  26%|██▌       | 51/197 [01:42<03:56,  1.62s/file]Fixing CSVs:  26%|██▋       | 52/197 [01:43<04:02,  1.67s/file]Fixing CSVs:  27%|██▋       | 53/197 [01:48<06:06,  2.54s/file]Fixing CSVs:  27%|██▋       | 54/197 [01:49<04:56,  2.08s/file]Fixing CSVs:  28%|██▊       | 55/197 [01:50<04:17,  1.81s/file]Fixing CSVs:  28%|██▊       | 56/197 [01:54<05:31,  2.35s/file]Fixing CSVs:  29%|██▉       | 57/197 [01:56<05:33,  2.38s/file]Fixing CSVs:  29%|██▉       | 58/197 [01:58<05:09,  2.22s/file]Fixing CSVs:  30%|██▉       | 59/197 [01:59<04:24,  1.92s/file]Fixing CSVs:  30%|███       | 60/197 [02:00<03:41,  1.61s/file]Fixing CSVs:  31%|███       | 61/197 [02:01<02:49,  1.24s/file]Fixing CSVs:  31%|███▏      | 62/197 [02:05<05:05,  2.26s/file]Fixing CSVs:  32%|███▏      | 63/197 [02:06<03:47,  1.70s/file]Fixing CSVs:  32%|███▏      | 64/197 [02:10<05:34,  2.52s/file]Fixing CSVs:  33%|███▎      | 65/197 [02:12<05:26,  2.47s/file]Fixing CSVs:  34%|███▎      | 66/197 [02:13<03:59,  1.83s/file]Fixing CSVs:  34%|███▍      | 67/197 [02:13<02:55,  1.35s/file]Fixing CSVs:  35%|███▍      | 68/197 [02:15<03:03,  1.42s/file]Fixing CSVs:  35%|███▌      | 69/197 [02:17<03:41,  1.73s/file]Fixing CSVs:  36%|███▌      | 70/197 [02:20<04:15,  2.01s/file]Fixing CSVs:  36%|███▌      | 71/197 [02:22<04:29,  2.14s/file]Fixing CSVs:  37%|███▋      | 72/197 [02:25<04:44,  2.27s/file]Fixing CSVs:  37%|███▋      | 73/197 [02:27<04:26,  2.15s/file]Fixing CSVs:  38%|███▊      | 74/197 [02:28<04:01,  1.96s/file]Fixing CSVs:  38%|███▊      | 75/197 [02:29<03:17,  1.62s/file]Fixing CSVs:  39%|███▉      | 77/197 [02:29<01:53,  1.06file/s]Fixing CSVs:  40%|███▉      | 78/197 [02:30<01:58,  1.01file/s]Fixing CSVs:  40%|████      | 79/197 [02:33<02:47,  1.42s/file]Fixing CSVs:  41%|████      | 80/197 [02:35<03:08,  1.61s/file]Fixing CSVs:  41%|████      | 81/197 [02:37<03:27,  1.79s/file]Fixing CSVs:  42%|████▏     | 82/197 [02:40<03:34,  1.87s/file]Fixing CSVs:  42%|████▏     | 83/197 [02:41<03:25,  1.81s/file]Fixing CSVs:  43%|████▎     | 84/197 [02:42<02:37,  1.39s/file]Fixing CSVs:  43%|████▎     | 85/197 [02:43<02:44,  1.47s/file]Fixing CSVs:  44%|████▎     | 86/197 [02:45<02:58,  1.61s/file]Fixing CSVs:  44%|████▍     | 87/197 [02:46<02:40,  1.46s/file]Fixing CSVs:  45%|████▌     | 89/197 [02:47<01:45,  1.03file/s]Fixing CSVs:  46%|████▌     | 90/197 [02:51<03:02,  1.71s/file]Fixing CSVs:  46%|████▌     | 91/197 [02:53<03:01,  1.72s/file]Fixing CSVs:  47%|████▋     | 92/197 [02:53<02:19,  1.32s/file]Fixing CSVs:  47%|████▋     | 93/197 [02:56<03:07,  1.81s/file]Fixing CSVs:  48%|████▊     | 94/197 [02:57<02:51,  1.66s/file]Fixing CSVs:  48%|████▊     | 95/197 [02:58<02:17,  1.35s/file]Fixing CSVs:  49%|████▊     | 96/197 [03:03<03:52,  2.31s/file]Fixing CSVs:  50%|████▉     | 98/197 [03:04<02:31,  1.53s/file]Fixing CSVs:  50%|█████     | 99/197 [03:05<02:14,  1.37s/file]Fixing CSVs:  51%|█████     | 100/197 [03:07<02:33,  1.58s/file]Fixing CSVs:  51%|█████▏    | 101/197 [03:10<03:12,  2.00s/file]Fixing CSVs:  52%|█████▏    | 102/197 [03:12<03:12,  2.03s/file]Fixing CSVs:  53%|█████▎    | 105/197 [03:13<01:37,  1.06s/file]Fixing CSVs:  54%|█████▍    | 106/197 [03:13<01:20,  1.12file/s]Fixing CSVs:  54%|█████▍    | 107/197 [03:14<01:28,  1.01file/s]Fixing CSVs:  55%|█████▍    | 108/197 [03:20<03:14,  2.19s/file]Fixing CSVs:  56%|█████▌    | 110/197 [03:21<02:06,  1.46s/file]Fixing CSVs:  56%|█████▋    | 111/197 [03:23<02:17,  1.60s/file]Fixing CSVs:  57%|█████▋    | 112/197 [03:27<03:12,  2.26s/file]Fixing CSVs:  57%|█████▋    | 113/197 [03:29<02:51,  2.04s/file]Fixing CSVs:  58%|█████▊    | 114/197 [03:29<02:09,  1.56s/file]Fixing CSVs:  58%|█████▊    | 115/197 [03:30<01:55,  1.41s/file]Fixing CSVs:  59%|█████▉    | 117/197 [03:32<01:43,  1.30s/file]Fixing CSVs:  60%|█████▉    | 118/197 [03:33<01:25,  1.08s/file]Fixing CSVs:  61%|██████    | 120/197 [03:35<01:18,  1.01s/file]Fixing CSVs:  61%|██████▏   | 121/197 [03:36<01:15,  1.01file/s]Fixing CSVs:  62%|██████▏   | 122/197 [03:37<01:24,  1.13s/file]Fixing CSVs:  62%|██████▏   | 123/197 [03:40<01:59,  1.61s/file]Fixing CSVs:  63%|██████▎   | 124/197 [03:41<01:45,  1.44s/file]Fixing CSVs:  63%|██████▎   | 125/197 [03:42<01:25,  1.19s/file]Fixing CSVs:  64%|██████▍   | 126/197 [03:44<01:42,  1.45s/file]Fixing CSVs:  64%|██████▍   | 127/197 [03:47<02:15,  1.94s/file]Fixing CSVs:  65%|██████▍   | 128/197 [03:50<02:26,  2.12s/file]Fixing CSVs:  65%|██████▌   | 129/197 [03:50<01:49,  1.62s/file]Fixing CSVs:  66%|██████▌   | 130/197 [03:52<02:00,  1.79s/file]Fixing CSVs:  66%|██████▋   | 131/197 [03:57<02:59,  2.72s/file]Fixing CSVs:  68%|██████▊   | 133/197 [03:57<01:39,  1.56s/file]Fixing CSVs:  68%|██████▊   | 134/197 [04:01<02:10,  2.07s/file]Fixing CSVs:  69%|██████▊   | 135/197 [04:04<02:20,  2.26s/file]Fixing CSVs:  69%|██████▉   | 136/197 [04:05<01:51,  1.82s/file]Fixing CSVs:  70%|██████▉   | 137/197 [04:07<01:55,  1.93s/file]Fixing CSVs:  70%|███████   | 138/197 [04:07<01:30,  1.54s/file]Fixing CSVs:  71%|███████   | 139/197 [04:07<01:06,  1.14s/file]Fixing CSVs:  71%|███████   | 140/197 [04:09<01:10,  1.23s/file]Fixing CSVs:  72%|███████▏  | 141/197 [04:10<01:10,  1.25s/file]Fixing CSVs:  72%|███████▏  | 142/197 [04:14<01:56,  2.11s/file]Fixing CSVs:  73%|███████▎  | 143/197 [04:15<01:29,  1.65s/file]Fixing CSVs:  73%|███████▎  | 144/197 [04:21<02:32,  2.87s/file]Fixing CSVs:  74%|███████▎  | 145/197 [04:21<01:46,  2.05s/file]Fixing CSVs:  74%|███████▍  | 146/197 [04:22<01:31,  1.80s/file]Fixing CSVs:  75%|███████▍  | 147/197 [04:24<01:30,  1.81s/file]Fixing CSVs:  75%|███████▌  | 148/197 [04:25<01:23,  1.70s/file]Fixing CSVs:  76%|███████▌  | 149/197 [04:28<01:31,  1.91s/file]Fixing CSVs:  76%|███████▌  | 150/197 [04:30<01:35,  2.03s/file]Fixing CSVs:  77%|███████▋  | 151/197 [04:32<01:30,  1.96s/file]Fixing CSVs:  77%|███████▋  | 152/197 [04:32<01:05,  1.46s/file]Fixing CSVs:  78%|███████▊  | 153/197 [04:35<01:26,  1.96s/file]Fixing CSVs:  78%|███████▊  | 154/197 [04:37<01:21,  1.89s/file]Fixing CSVs:  79%|███████▊  | 155/197 [04:38<01:11,  1.70s/file]Fixing CSVs:  79%|███████▉  | 156/197 [04:40<01:10,  1.72s/file]Fixing CSVs:  80%|███████▉  | 157/197 [04:42<01:10,  1.77s/file]Fixing CSVs:  80%|████████  | 158/197 [04:44<01:11,  1.82s/file]Fixing CSVs:  81%|████████  | 159/197 [04:45<01:01,  1.62s/file]Fixing CSVs:  81%|████████  | 160/197 [04:49<01:26,  2.34s/file]Fixing CSVs:  82%|████████▏ | 161/197 [04:52<01:29,  2.48s/file]Fixing CSVs:  82%|████████▏ | 162/197 [04:53<01:10,  2.02s/file]Fixing CSVs:  83%|████████▎ | 163/197 [04:54<00:56,  1.65s/file]Fixing CSVs:  83%|████████▎ | 164/197 [04:57<01:14,  2.25s/file]Fixing CSVs:  84%|████████▍ | 165/197 [04:59<01:09,  2.19s/file]Fixing CSVs:  84%|████████▍ | 166/197 [04:59<00:50,  1.62s/file]Fixing CSVs:  85%|████████▍ | 167/197 [05:00<00:40,  1.35s/file]Fixing CSVs:  85%|████████▌ | 168/197 [05:02<00:40,  1.40s/file]Fixing CSVs:  86%|████████▌ | 169/197 [05:04<00:45,  1.62s/file]Fixing CSVs:  86%|████████▋ | 170/197 [05:06<00:45,  1.70s/file]Fixing CSVs:  87%|████████▋ | 171/197 [05:07<00:42,  1.65s/file]Fixing CSVs:  88%|████████▊ | 173/197 [05:08<00:27,  1.16s/file]Fixing CSVs:  88%|████████▊ | 174/197 [05:09<00:23,  1.04s/file]Fixing CSVs:  89%|████████▉ | 175/197 [05:11<00:27,  1.23s/file]Fixing CSVs:  89%|████████▉ | 176/197 [05:12<00:22,  1.07s/file]Fixing CSVs:  90%|████████▉ | 177/197 [05:17<00:46,  2.32s/file]Fixing CSVs:  90%|█████████ | 178/197 [05:19<00:41,  2.18s/file]Fixing CSVs:  91%|█████████ | 179/197 [05:21<00:38,  2.14s/file]Fixing CSVs:  92%|█████████▏| 181/197 [05:21<00:20,  1.28s/file]Fixing CSVs:  92%|█████████▏| 182/197 [05:22<00:18,  1.22s/file]Fixing CSVs:  93%|█████████▎| 183/197 [05:25<00:22,  1.61s/file]Fixing CSVs:  93%|█████████▎| 184/197 [05:26<00:19,  1.48s/file]Fixing CSVs:  94%|█████████▍| 185/197 [05:27<00:16,  1.35s/file]Fixing CSVs:  94%|█████████▍| 186/197 [05:29<00:14,  1.36s/file]Fixing CSVs:  95%|█████████▍| 187/197 [05:30<00:12,  1.30s/file]Fixing CSVs:  95%|█████████▌| 188/197 [05:37<00:27,  3.07s/file]Fixing CSVs:  96%|█████████▌| 189/197 [05:38<00:18,  2.36s/file]Fixing CSVs:  96%|█████████▋| 190/197 [05:39<00:14,  2.04s/file]Fixing CSVs:  97%|█████████▋| 191/197 [05:43<00:15,  2.54s/file]Fixing CSVs:  97%|█████████▋| 192/197 [05:43<00:09,  1.91s/file]Fixing CSVs:  98%|█████████▊| 193/197 [05:44<00:06,  1.55s/file]Fixing CSVs:  98%|█████████▊| 194/197 [05:46<00:04,  1.55s/file]Fixing CSVs:  99%|█████████▉| 195/197 [05:46<00:02,  1.32s/file]Fixing CSVs:  99%|█████████▉| 196/197 [05:53<00:02,  2.99s/file]Fixing CSVs: 100%|██████████| 197/197 [05:57<00:00,  3.35s/file]Fixing CSVs: 100%|██████████| 197/197 [05:57<00:00,  1.82s/file]
+✅ EHDP-01256.csv | Rows kept: 119910 | Rows dropped: 8759
+✅ EHDP-01063.csv | Rows kept: 719932 | Rows dropped: 27374
+✅ EHDP-01060.csv | Rows kept: 720018 | Rows dropped: 27289
+✅ EHDP-01131.csv | Rows kept: 718207 | Rows dropped: 22157
+✅ EHDP-00839.csv | Rows kept: 719622 | Rows dropped: 26531
+✅ EHDP-00710.csv | Rows kept: 724677 | Rows dropped: 21208
+✅ EHDP-01326.csv | Rows kept: 734389 | Rows dropped: 20037
+✅ EHDP-01382.csv | Rows kept: 734764 | Rows dropped: 18445
+✅ EHDP-00624.csv | Rows kept: 725769 | Rows dropped: 21630
+✅ EHDP-00087.csv | Rows kept: 374756 | Rows dropped: 13744
+✅ EHDP-00090.csv | Rows kept: 374401 | Rows dropped: 14091
+✅ EHDP-00214.csv | Rows kept: 509085 | Rows dropped: 14863
+✅ EHDP-00890.csv | Rows kept: 733008 | Rows dropped: 21692
+✅ EHDP-01386.csv | Rows kept: 727578 | Rows dropped: 18283
+✅ EHDP-00811.csv | Rows kept: 701333 | Rows dropped: 22601
+✅ EHDP-00620.csv | Rows kept: 708522 | Rows dropped: 22871
+✅ EHDP-01307.csv | Rows kept: 727259 | Rows dropped: 20008
+✅ EHDP-01301.csv | Rows kept: 584012 | Rows dropped: 22227
+✅ EHDP-01241.csv | Rows kept: 721041 | Rows dropped: 23518
+✅ EHDP-00573.csv | Rows kept: 374667 | Rows dropped: 13818
+✅ EHDP-01479.csv | Rows kept: 716378 | Rows dropped: 27993
+✅ EHDP-01061.csv | Rows kept: 721177 | Rows dropped: 23253
+✅ EHDP-01434.csv | Rows kept: 723223 | Rows dropped: 21191
+✅ EHDP-00844.csv | Rows kept: 721296 | Rows dropped: 22090
+✅ EHDP-00178.csv | Rows kept: 489126 | Rows dropped: 14547
+✅ EHDP-00815.csv | Rows kept: 731474 | Rows dropped: 24414
+✅ EHDP-00678.csv | Rows kept: 719722 | Rows dropped: 20183
+✅ EHDP-00673.csv | Rows kept: 712822 | Rows dropped: 20219
+✅ EHDP-00776.csv | Rows kept: 724802 | Rows dropped: 24015
+✅ EHDP-00085.csv | Rows kept: 374693 | Rows dropped: 13814
+✅ EHDP-01431.csv | Rows kept: 725098 | Rows dropped: 19376
+✅ EHDP-00714.csv | Rows kept: 724065 | Rows dropped: 21809
+✅ EHDP-01058.csv | Rows kept: 721189 | Rows dropped: 23241
+✅ EHDP-01115.csv | Rows kept: 579071 | Rows dropped: 15769
+✅ EHDP-00894.csv | Rows kept: 734515 | Rows dropped: 20193
+✅ EHDP-00681.csv | Rows kept: 719735 | Rows dropped: 20175
+✅ EHDP-01478.csv | Rows kept: 725755 | Rows dropped: 25816
+✅ EHDP-01387.csv | Rows kept: 727882 | Rows dropped: 18113
+✅ EHDP-00459.csv | Rows kept: 652648 | Rows dropped: 11072
+✅ EHDP-01385.csv | Rows kept: 727883 | Rows dropped: 18120
+✅ EHDP-01433.csv | Rows kept: 724592 | Rows dropped: 19824
+✅ EHDP-00089.csv | Rows kept: 374359 | Rows dropped: 14134
+✅ EHDP-01321.csv | Rows kept: 737195 | Rows dropped: 20099
+✅ EHDP-00843.csv | Rows kept: 721114 | Rows dropped: 22274
+✅ EHDP-00813.csv | Rows kept: 732570 | Rows dropped: 25148
+✅ EHDP-00618.csv | Rows kept: 715723 | Rows dropped: 21449
+✅ EHDP-00083.csv | Rows kept: 374338 | Rows dropped: 14174
+✅ EHDP-01432.csv | Rows kept: 724939 | Rows dropped: 19531
+✅ EHDP-01032.csv | Rows kept: 672962 | Rows dropped: 22560
+✅ EHDP-01303.csv | Rows kept: 714465 | Rows dropped: 22575
+✅ EHDP-01031.csv | Rows kept: 729125 | Rows dropped: 24135
+✅ EHDP-01037.csv | Rows kept: 728165 | Rows dropped: 25096
+✅ EHDP-00912.csv | Rows kept: 726985 | Rows dropped: 19186
+✅ EHDP-01059.csv | Rows kept: 718469 | Rows dropped: 25961
+✅ EHDP-01033.csv | Rows kept: 720171 | Rows dropped: 31627
+✅ EHDP-00845.csv | Rows kept: 724411 | Rows dropped: 21720
+✅ EHDP-00891.csv | Rows kept: 734275 | Rows dropped: 20426
+✅ EHDP-00715.csv | Rows kept: 724184 | Rows dropped: 21699
+✅ EHDP-00812.csv | Rows kept: 732957 | Rows dropped: 24782
+✅ EHDP-01036.csv | Rows kept: 725918 | Rows dropped: 28769
+✅ EHDP-01116.csv | Rows kept: 503042 | Rows dropped: 13927
+✅ EHDP-01476.csv | Rows kept: 728625 | Rows dropped: 25820
+✅ EHDP-01325.csv | Rows kept: 734578 | Rows dropped: 19851
+✅ EHDP-01170.csv | Rows kept: 720296 | Rows dropped: 27059
+✅ EHDP-00218.csv | Rows kept: 509233 | Rows dropped: 14724
+✅ EHDP-01118.csv | Rows kept: 580457 | Rows dropped: 14375
+✅ EHDP-00806.csv | Rows kept: 701386 | Rows dropped: 22895
+✅ EHDP-00617.csv | Rows kept: 715271 | Rows dropped: 21903
+✅ EHDP-00619.csv | Rows kept: 715651 | Rows dropped: 21518
+✅ EHDP-00457.csv | Rows kept: 652086 | Rows dropped: 11634
+✅ EHDP-00777.csv | Rows kept: 731733 | Rows dropped: 22838
+✅ EHDP-00173.csv | Rows kept: 493375 | Rows dropped: 13179
+✅ EHDP-01240.csv | Rows kept: 721487 | Rows dropped: 23075
+✅ EHDP-00914.csv | Rows kept: 272836 | Rows dropped: 3850
+✅ EHDP-00458.csv | Rows kept: 651281 | Rows dropped: 11001
+✅ EHDP-01132.csv | Rows kept: 718277 | Rows dropped: 22083
+✅ EHDP-00174.csv | Rows kept: 439418 | Rows dropped: 12506
+✅ EHDP-00711.csv | Rows kept: 724369 | Rows dropped: 21520
+✅ EHDP-00818.csv | Rows kept: 732976 | Rows dropped: 22940
+✅ EHDP-00215.csv | Rows kept: 456578 | Rows dropped: 24567
+✅ EHDP-00371.csv | Rows kept: 339944 | Rows dropped: 11345
+✅ EHDP-00179.csv | Rows kept: 493351 | Rows dropped: 13203
+✅ EHDP-00680.csv | Rows kept: 92099 | Rows dropped: 95
+✅ EHDP-00084.csv | Rows kept: 374593 | Rows dropped: 13917
+✅ EHDP-01167.csv | Rows kept: 717334 | Rows dropped: 27048
+✅ EHDP-00712.csv | Rows kept: 721484 | Rows dropped: 22957
+✅ EHDP-00623.csv | Rows kept: 717083 | Rows dropped: 21678
+✅ EHDP-01239.csv | Rows kept: 717962 | Rows dropped: 26603
+✅ EHDP-00177.csv | Rows kept: 401486 | Rows dropped: 10307
+✅ EHDP-00216.csv | Rows kept: 237483 | Rows dropped: 4431
+✅ EHDP-00622.csv | Rows kept: 718112 | Rows dropped: 23531
+✅ EHDP-00220.csv | Rows kept: 509252 | Rows dropped: 14682
+✅ EHDP-00782.csv | Rows kept: 572144 | Rows dropped: 11251
+✅ EHDP-00751.csv | Rows kept: 241826 | Rows dropped: 5760
+✅ EHDP-01475.csv | Rows kept: 729305 | Rows dropped: 25140
+✅ EHDP-00816.csv | Rows kept: 731657 | Rows dropped: 24255
+✅ EHDP-00778.csv | Rows kept: 2839 | Rows dropped: 0
+✅ EHDP-01477.csv | Rows kept: 718941 | Rows dropped: 28303
+✅ EHDP-01474.csv | Rows kept: 716203 | Rows dropped: 28162
+✅ EHDP-00461.csv | Rows kept: 652534 | Rows dropped: 11253
+✅ EHDP-00716.csv | Rows kept: 724388 | Rows dropped: 21490
+✅ EHDP-00358.csv | Rows kept: 374677 | Rows dropped: 13812
+✅ EHDP-01205.csv | Rows kept: 4111 | Rows dropped: 163
+✅ EHDP-01255.csv | Rows kept: 139 | Rows dropped: 0
+✅ EHDP-00805.csv | Rows kept: 701437 | Rows dropped: 22851
+✅ EHDP-00677.csv | Rows kept: 719836 | Rows dropped: 20067
+✅ EHDP-00625.csv | Rows kept: 726157 | Rows dropped: 21239
+✅ EHDP-01384.csv | Rows kept: 727203 | Rows dropped: 18798
+✅ EHDP-00717.csv | Rows kept: 718355 | Rows dropped: 23212
+✅ EHDP-00086.csv | Rows kept: 374234 | Rows dropped: 14269
+✅ EHDP-01308.csv | Rows kept: 714202 | Rows dropped: 22844
+✅ EHDP-00814.csv | Rows kept: 734619 | Rows dropped: 23123
+✅ EHDP-00675.csv | Rows kept: 716563 | Rows dropped: 19389
+✅ EHDP-01034.csv | Rows kept: 726144 | Rows dropped: 28543
+✅ EHDP-00840.csv | Rows kept: 682683 | Rows dropped: 20147
+✅ EHDP-00776-1.csv | Rows kept: 6601 | Rows dropped: 636
+✅ EHDP-01254.csv | Rows kept: 117405 | Rows dropped: 11091
+✅ EHDP-00376.csv | Rows kept: 527183 | Rows dropped: 18299
+✅ EHDP-00372.csv | Rows kept: 526698 | Rows dropped: 19020
+✅ EHDP-00370.csv | Rows kept: 339689 | Rows dropped: 11602
+✅ EHDP-01039.csv | Rows kept: 141472 | Rows dropped: 4339
+✅ EHDP-01166.csv | Rows kept: 717637 | Rows dropped: 26748
+✅ EHDP-00676.csv | Rows kept: 716480 | Rows dropped: 19469
+✅ EHDP-01381.csv | Rows kept: 586475 | Rows dropped: 11281
+✅ EHDP-01114.csv | Rows kept: 417988 | Rows dropped: 11233
+✅ EHDP-01302.csv | Rows kept: 599552 | Rows dropped: 18186
+✅ EHDP-00895.csv | Rows kept: 648778 | Rows dropped: 19372
+✅ EHDP-00455.csv | Rows kept: 652009 | Rows dropped: 11712
+✅ EHDP-00369.csv | Rows kept: 526877 | Rows dropped: 18844
+✅ EHDP-00846.csv | Rows kept: 724666 | Rows dropped: 21463
+✅ EHDP-00892.csv | Rows kept: 734570 | Rows dropped: 20131
+✅ EHDP-00460.csv | Rows kept: 652463 | Rows dropped: 11259
+✅ EHDP-00783.csv | Rows kept: 732976 | Rows dropped: 21593
+✅ EHDP-01323.csv | Rows kept: 734818 | Rows dropped: 19616
+✅ EHDP-01238.csv | Rows kept: 721438 | Rows dropped: 23130
+✅ EHDP-00515.csv | Rows kept: 374711 | Rows dropped: 13775
+✅ EHDP-01168.csv | Rows kept: 716065 | Rows dropped: 28414
+✅ EHDP-00456.csv | Rows kept: 645161 | Rows dropped: 12799
+✅ EHDP-01481.csv | Rows kept: 728983 | Rows dropped: 26908
+✅ EHDP-00368.csv | Rows kept: 527075 | Rows dropped: 18649
+✅ EHDP-00752.csv | Rows kept: 428874 | Rows dropped: 13155
+✅ EHDP-01062.csv | Rows kept: 721205 | Rows dropped: 26102
+✅ EHDP-00398.csv | Rows kept: 374436 | Rows dropped: 14052
+✅ EHDP-01324.csv | Rows kept: 734257 | Rows dropped: 20175
+✅ EHDP-01305.csv | Rows kept: 724164 | Rows dropped: 20072
+✅ EHDP-00910.csv | Rows kept: 674004 | Rows dropped: 18952
+✅ EHDP-01328.csv | Rows kept: 742882 | Rows dropped: 15832
+✅ EHDP-00779.csv | Rows kept: 731594 | Rows dropped: 23003
+✅ EHDP-01236.csv | Rows kept: 716900 | Rows dropped: 27674
+✅ EHDP-00176.csv | Rows kept: 401495 | Rows dropped: 10306
+✅ EHDP-01383.csv | Rows kept: 736534 | Rows dropped: 16675
+✅ EHDP-01306.csv | Rows kept: 727089 | Rows dropped: 20168
+✅ EHDP-01294.csv | Rows kept: 451277 | Rows dropped: 19881
+✅ EHDP-01480.csv | Rows kept: 731552 | Rows dropped: 25779
+✅ EHDP-00841.csv | Rows kept: 720168 | Rows dropped: 23226
+✅ EHDP-00780.csv | Rows kept: 731435 | Rows dropped: 23153
+✅ EHDP-00373.csv | Rows kept: 526628 | Rows dropped: 19098
+✅ EHDP-00219.csv | Rows kept: 509138 | Rows dropped: 14800
+✅ EHDP-01108.csv | Rows kept: 746431 | Rows dropped: 23879
+✅ EHDP-00896.csv | Rows kept: 733734 | Rows dropped: 20974
+✅ EHDP-00679.csv | Rows kept: 713263 | Rows dropped: 20884
+✅ EHDP-00454.csv | Rows kept: 645394 | Rows dropped: 12566
+✅ EHDP-01322.csv | Rows kept: 737368 | Rows dropped: 19923
+✅ EHDP-01107.csv | Rows kept: 745881 | Rows dropped: 24432
+✅ EHDP-00175.csv | Rows kept: 489357 | Rows dropped: 14541
+✅ EHDP-00674.csv | Rows kept: 716506 | Rows dropped: 19417
+✅ EHDP-01327.csv | Rows kept: 737392 | Rows dropped: 19886
+✅ EHDP-01237.csv | Rows kept: 719614 | Rows dropped: 24957
+✅ EHDP-00217.csv | Rows kept: 492087 | Rows dropped: 20356
+✅ EHDP-01117.csv | Rows kept: 560709 | Rows dropped: 14164
+✅ EHDP-01380.csv | Rows kept: 389442 | Rows dropped: 3800
+✅ EHDP-00781.csv | Rows kept: 2845 | Rows dropped: 0
+✅ EHDP-01119.csv | Rows kept: 507387 | Rows dropped: 12448
+✅ EHDP-01134.csv | Rows kept: 718391 | Rows dropped: 21963
+✅ EHDP-00180.csv | Rows kept: 493376 | Rows dropped: 13405
+✅ EHDP-00088.csv | Rows kept: 374826 | Rows dropped: 13670
+✅ EHDP-01171.csv | Rows kept: 720444 | Rows dropped: 26909
+✅ EHDP-01164.csv | Rows kept: 717758 | Rows dropped: 26632
+✅ EHDP-00374.csv | Rows kept: 526949 | Rows dropped: 18459
+✅ EHDP-00889.csv | Rows kept: 619897 | Rows dropped: 13914
+✅ EHDP-01038.csv | Rows kept: 728589 | Rows dropped: 24680
+✅ EHDP-00913.csv | Rows kept: 273032 | Rows dropped: 3656
+✅ EHDP-00713.csv | Rows kept: 724137 | Rows dropped: 21743
+✅ EHDP-00817.csv | Rows kept: 730675 | Rows dropped: 25228
+✅ EHDP-00514.csv | Rows kept: 374520 | Rows dropped: 13967
+✅ EHDP-01133.csv | Rows kept: 718392 | Rows dropped: 21965
+✅ EHDP-00213.csv | Rows kept: 378371 | Rows dropped: 9519
+✅ EHDP-00842.csv | Rows kept: 721381 | Rows dropped: 22010
+✅ EHDP-00909.csv | Rows kept: 726437 | Rows dropped: 19740
+✅ EHDP-01165.csv | Rows kept: 717137 | Rows dropped: 27250
+✅ EHDP-00893.csv | Rows kept: 732979 | Rows dropped: 21722
+✅ EHDP-01304.csv | Rows kept: 724120 | Rows dropped: 20120
+✅ EHDP-00915.csv | Rows kept: 722540 | Rows dropped: 22185
+✅ EHDP-00908.csv | Rows kept: 727057 | Rows dropped: 19122
+✅ EHDP-01035.csv | Rows kept: 728932 | Rows dropped: 25747
+✅ EHDP-00911.csv | Rows kept: 725706 | Rows dropped: 20467
+✅ EHDP-01169.csv | Rows kept: 719983 | Rows dropped: 27375
+🎉 All files processed. Report saved to /scratch/bhole/dvc_data/smoothed/cage_activations_full_data_fixed/fix_report.csv
