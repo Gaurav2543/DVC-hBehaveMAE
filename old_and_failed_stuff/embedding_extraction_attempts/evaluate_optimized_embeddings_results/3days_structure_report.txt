@@ -1,0 +1,67 @@
+🔬 COMPREHENSIVE EMBEDDING STRUCTURE ANALYSIS
+============================================================
+
+Aggregation: 3days
+Analysis Date: 2025-09-26T11:45:19.458699
+Base Directory: /scratch/bhole/dvc_data/smoothed/models_3days/optimized_embeddings/3days
+Total Sequences: 9
+Total Files: 27
+
+📁 CATEGORY BREAKDOWN
+------------------------------
+
+🗂️  HIERARCHICAL
+   Files: 9
+   Total Features: 180
+   Feature Types: 20
+   Size: 12620.31 MB
+   📊 Feature Types:
+      - level_4_temporal
+      - level_1_pooled
+      - level_2_spatial
+      - level_3_spatial
+      - level_5_spatiotemporal
+      - level_2_pooled
+      - level_3_spatiotemporal
+      - level_4_spatiotemporal
+      - level_5_temporal
+      - level_1_spatial
+      - level_3_temporal
+      - level_5_spatial
+      - level_5_pooled
+      - level_4_pooled
+      - level_1_spatiotemporal
+      - level_4_spatial
+      - level_2_temporal
+      - level_1_temporal
+      - level_3_pooled
+      - level_2_spatiotemporal
+
+🗂️  ELECTRODE_FEATURES
+   Files: 9
+   Total Features: 0
+   Feature Types: 0
+   Size: 0.00 MB
+   📊 Feature Types:
+
+🗂️  TEMPORAL_ANALYSIS
+   Files: 9
+   Total Features: 0
+   Feature Types: 0
+   Size: 0.00 MB
+   📊 Feature Types:
+
+💾 TOTAL STORAGE: 12620.31 MB (12.32 GB)
+
+🕒 TEMPORAL MAPPING
+--------------------
+Sequences with frame mapping: 9
+Total frames: 38,880
+
+📋 Sample Frame Ranges:
+   EHDP-00083_2019-11-11: frames 0 to 4,320 (4,320 frames)
+   EHDP-00083_2019-11-14: frames 4,320 to 8,640 (4,320 frames)
+   EHDP-00083_2019-11-17: frames 8,640 to 12,960 (4,320 frames)
+   EHDP-00083_2019-11-20: frames 12,960 to 17,280 (4,320 frames)
+   EHDP-00083_2019-11-26: frames 17,280 to 21,600 (4,320 frames)
+   ... and 4 more sequences

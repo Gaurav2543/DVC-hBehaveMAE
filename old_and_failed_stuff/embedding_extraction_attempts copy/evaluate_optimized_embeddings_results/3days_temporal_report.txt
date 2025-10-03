@@ -1,0 +1,88 @@
+🕒 TEMPORAL MAPPING ANALYSIS
+========================================
+
+Aggregation: 3days
+
+📅 GLOBAL TIMELINE
+--------------------
+Earliest: 2019-11-11T06:00:00
+Latest: 2019-12-11T05:59:00
+Timespan: 719.98 hours
+Total Frames: 38,880
+Unique Dates: 29
+Unique Cages: 1
+
+📊 SEQUENCE Details
+--------------------
+
+🔹 EHDP-00083_2019-11-11
+   Cage: EHDP-00083
+   Date: 2019-11-11
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-11T06:00:00
+   End: 2019-11-14T05:59:00
+
+🔹 EHDP-00083_2019-11-14
+   Cage: EHDP-00083
+   Date: 2019-11-14
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-14T06:00:00
+   End: 2019-11-17T05:59:00
+
+🔹 EHDP-00083_2019-11-17
+   Cage: EHDP-00083
+   Date: 2019-11-17
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-17T06:00:00
+   End: 2019-11-20T05:59:00
+
+🔹 EHDP-00083_2019-11-20
+   Cage: EHDP-00083
+   Date: 2019-11-20
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-20T06:00:00
+   End: 2019-11-23T05:59:00
+
+🔹 EHDP-00083_2019-11-26
+   Cage: EHDP-00083
+   Date: 2019-11-26
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-26T06:00:00
+   End: 2019-11-29T05:59:00
+
+🔹 EHDP-00083_2019-11-29
+   Cage: EHDP-00083
+   Date: 2019-11-29
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-11-29T06:00:00
+   End: 2019-12-02T05:59:00
+
+🔹 EHDP-00083_2019-12-02
+   Cage: EHDP-00083
+   Date: 2019-12-02
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-12-02T06:00:00
+   End: 2019-12-05T05:59:00
+
+🔹 EHDP-00083_2019-12-05
+   Cage: EHDP-00083
+   Date: 2019-12-05
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-12-05T06:00:00
+   End: 2019-12-08T05:59:00
+
+🔹 EHDP-00083_2019-12-08
+   Cage: EHDP-00083
+   Date: 2019-12-08
+   Duration: 4319.0 minutes
+   Frames: 4,320
+   Start: 2019-12-08T06:00:00
+   End: 2019-12-11T05:59:00

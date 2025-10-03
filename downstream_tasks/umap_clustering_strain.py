@@ -21,8 +21,8 @@ parser.add_argument('--metadata_path', required=True)
 parser.add_argument('--output_dir', required=True)
 parser.add_argument('--embedding_dimensions', type=int, default=1440)
 parser.add_argument('--method', type=str, default="mean", choices=["mean", "median", "percentiles"])
-parser.add_argument('--embedding_level1', required=True)
-parser.add_argument('--embedding_level2', required=True)
+# parser.add_argument('--embedding_level1', required=True)
+# parser.add_argument('--embedding_level2', required=True)
 parser.add_argument('--embedding_level3', required=True)
 parser.add_argument('--embedding_level4', required=True)
 parser.add_argument('--embedding_level5', required=True)
@@ -93,8 +93,8 @@ def process_embedding(path, label):
 # Process Each Embedding Type
 # =============================
 embedding_paths = {
-    "level1": args.embedding_level1,
-    "level2": args.embedding_level2,
+    # "level1": args.embedding_level1,
+    # "level2": args.embedding_level2,
     "level3": args.embedding_level3,
     "level4": args.embedding_level4,
     "level5": args.embedding_level5,

@@ -23,8 +23,8 @@ parser = argparse.ArgumentParser(description="UMAP Visualization Script")
 parser.add_argument('--metadata_path', required=True)
 parser.add_argument('--results_json', required=True)
 parser.add_argument('--output_dir', required=True)
-parser.add_argument('--embedding_level1', required=True)
-parser.add_argument('--embedding_level2', required=True)
+# parser.add_argument('--embedding_level1', required=True)
+# parser.add_argument('--embedding_level2', required=True)
 parser.add_argument('--embedding_level3', required=True)
 parser.add_argument('--embedding_level4', required=True)
 parser.add_argument('--embedding_level5', required=True)
@@ -44,10 +44,21 @@ embedding_lengths = json.loads(args.embedding_lengths)
 
 # Build prediction_results[ds_label] = json content
 prediction_results = {}
-for label in ["level1", "level2", "level3", "level4", "level5", "comb"]:
+# for label in ["level1", "level2", "level3", "level4", "level5", "comb"]:
+# for label in ["level3", "level4", "level5", "comb"]:
+#     for method in ["mean", "median", "percentiles"]:
+#         subfolder = os.path.join(os.path.dirname(args.results_json), f"3days_{label}", method)
+#         json_filename = f"results_predictions_{label}_{method}.json"
+#         json_path = os.path.join(subfolder, json_filename)
+#         key = f"{label}_{method}"
+#         if os.path.exists(json_path):
+#             with open(json_path, "r") as f:
+#                 prediction_results[key] = json.load(f)
+for label in ["level3", "level4", "level5", "comb"]:
     for method in ["mean", "median", "percentiles"]:
-        subfolder = os.path.join(os.path.dirname(args.results_json), f"3days_{label}", method)
-        json_filename = f"results_predictions_{label}_{method}.json"
+        # Look in the age_strain_predictor output directories
+        subfolder = os.path.join(os.path.dirname(args.results_json), f"age_strain_predictor_{label}")
+        json_filename = f"4320_3days_345_{label}.json"  # Use your actual JSON naming pattern
         json_path = os.path.join(subfolder, json_filename)
         key = f"{label}_{method}"
         if os.path.exists(json_path):
@@ -141,8 +152,8 @@ metadata["key"] = metadata.apply(lambda row: f"{row['cage_id']}_{row['from_tpt']
 # Embedding types and loop
 # =============================
 embedding_types = {
-    "level1": args.embedding_level1,
-    "level2": args.embedding_level2,
+    # "level1": args.embedding_level1,
+    # "level2": args.embedding_level2,
     "level3": args.embedding_level3,
     "level4": args.embedding_level4,
     "level5": args.embedding_level5,
@@ -196,7 +207,8 @@ for label, path in tqdm(embedding_types.items(), desc="[LOOP] Embedding types", 
 # Combined Comparison PDFs
 # =============================
 for method in ["mean", "median", "percentiles"]:
-    variant_labels = [f"{t}_{method}" for t in ['level1', 'level2', 'level3', 'level4', 'level5', 'comb']]
+    # variant_labels = [f"{t}_{method}" for t in ['level1', 'level2', 'level3', 'level4', 'level5', 'comb']]
+    variant_labels = [f"{t}_{method}" for t in ['level3', 'level4', 'level5', 'comb']]
     all_strains = sorted(set(datasets[variant_labels[-1]][2]))  # from comb
     pdf_path = os.path.join(args.output_dir, f"{args.umap_name_prefix}_comparison_{method}.pdf")
 
